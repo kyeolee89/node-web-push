@@ -1,0 +1,26 @@
+{
+  "name": "node-web-push",
+  "description": "node-web-push server",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Benjamin"
+    }
+  ],
+  "dependencies": {
+    "ajax-request": "1.2.1",
+    "express": "4.13.1",
+    "minimist": "1.1.0",
+    "redis": "2.4.2",
+    "https": "1.0.0",
+    "socketcluster": "4.3.2",
+    "socketcluster-client": "4.3.9"
+  },
+  "keywords": [
+    "websocket",
+    "server",
+    "realtime",
+    "cluster",
+    "scalable"
+  ]
+}
